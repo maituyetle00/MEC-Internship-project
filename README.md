@@ -10,25 +10,25 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 Each training and test example is assigned to one of the following labels:
 
 
-0 T-shirt/top
+0: T-shirt/top
 
-1 Trouser
+1: Trouser
 
-2 Pullover
+2: Pullover
 
-3 Dress
+3: Dress
 
-4 Coat
+4: Coat
 
-5 Sandal
+5: Sandal
 
-6 Shirt
+6: Shirt
 
-7 Sneaker
+7: Sneaker
 
-8 Bag
+8: Bag
 
-9 Ankle boot
+9: Ankle boot
 
 ## 3. Hyperameter
 Described in jupyternotebook
