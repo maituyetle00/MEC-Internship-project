@@ -29,3 +29,7 @@ Each training and test example is assigned to one of the following labels:
 8 Bag
 
 9 Ankle boot
+
+## 3. Hyperameter
+Described in jupyternotebook
+
