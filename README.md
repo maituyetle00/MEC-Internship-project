@@ -33,4 +33,4 @@ Each training and test example is assigned to one of the following labels:
 ## 3. Hyperameter
 Described in jupyternotebook
 ## 4. Result:
-Acc: 89.99%
+Accuracy: 89.99%
